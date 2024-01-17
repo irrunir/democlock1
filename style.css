@@ -1,0 +1,784 @@
+/* By > www.userali.ir */
+
+.container-fluid .bg-animations div:nth-child(1) {
+    top: 13%;
+}
+
+.container-fluid .bg-animations div:nth-child(1) {
+    left: 10%;
+}
+
+.container-fluid .bg-animations div:nth-child(1) {
+    background-color: green;
+}
+
+.container-fluid .bg-animations div:nth-child(1) {
+    box-shadow: 0in 0pt 1.875pc green;
+}
+
+.container-fluid .bg-animations div:nth-child(1) {
+    animation: anim 10s linear infinite;
+}
+
+.container-fluid .bg-animations div:nth-child(2) {
+    top: 20%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(3),
+.container-fluid .bg-animations div:nth-child(2) {
+    left: 20%;
+}
+
+.container-fluid .bg-animations div:nth-child(2) {
+    background-color: #9fd3c7;
+}
+
+[class~=container-fluid] {
+    height: 100vh;
+}
+
+.container-fluid .bg-animations div:nth-child(2) {
+    box-shadow: 0pc 0px .3125in #9fd3c7;
+}
+
+.container-fluid .bg-animations div:nth-child(2) {
+    animation: anim 12s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(3) {
+    top: 80%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(3) {
+    background-color: #e3e3e3;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(3) {
+    box-shadow: 0px 0pt .3125in #e3e3e3;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(3) {
+    animation: anim 8s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(4) {
+    top: 90%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(4),
+[class~=container-fluid] [class~=bg-animations] div:nth-child(5) {
+    left: 90%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(4) {
+    background-color: #e7eaf6;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(4) {
+    box-shadow: 0px 0in 30px #e7eaf6;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(4) {
+    animation: anim 14s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(5) {
+    top: 50%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(5) {
+    background-color: #eef2e2;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(5) {
+    box-shadow: 0px 0pc 22.5pt #eef2e2;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(5) {
+    animation: anim 9s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(6) {
+    top: 30%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(6) {
+    left: 80%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(6) {
+    background-color: #e3e3e3;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(6) {
+    box-shadow: 0pt 0in 1.875pc #e3e3e3;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(6) {
+    animation: anim 11s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(7) {
+    top: 20%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(7),
+[class~=container-fluid] [class~=bg-animations] div:nth-child(8) {
+    left: 50%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(7),
+[class~=container-fluid] [class~=bg-animations] div:nth-child(8) {
+    background-color: #680747;
+}
+
+[class~=container-fluid] {
+    display: flex;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(7),
+[class~=container-fluid] [class~=bg-animations] div:nth-child(8) {
+    box-shadow: 0pc 0pc 22.5pt #680747;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(7) {
+    animation: anim 7s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(8) {
+    top: 80%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(8) {
+    animation: anim 11s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(9),
+[class~=container-fluid] [class~=bg-animations] div:nth-child(10) {
+    top: 100%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(9) {
+    left: 30%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(10),
+[class~=container-fluid] [class~=bg-animations] div:nth-child(9) {
+    background-color: #fcfafa;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(10),
+[class~=container-fluid] [class~=bg-animations] div:nth-child(9) {
+    box-shadow: 0pc 0px 22.5pt #fcfafa;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(9) {
+    animation: anim 10s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(10) {
+    left: 80%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(10) {
+    animation: anim 9s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(11) {
+    top: 90%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(11) {
+    left: 40%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(11) {
+    background-color: #e3e3e3;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(11) {
+    box-shadow: 0pc 0px 30px #e3e3e3;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(11) {
+    animation: anim 7s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(12) {
+    top: 50%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(12) {
+    left: 10%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(12) {
+    background-color: #ffaaa5;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(12) {
+    box-shadow: 0pc 0pt 22.5pt #ffaaa5;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(12) {
+    animation: anim 12s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(13) {
+    top: 70%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(13) {
+    left: 80%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(13) {
+    background-color: #05004e;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(13) {
+    box-shadow: 0pt 0pt .3125in #05004e;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(13) {
+    animation: anim 11s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(14) {
+    top: 90%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(14) {
+    left: 5%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(14) {
+    background-color: #eee;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(14) {
+    box-shadow: 0pt 0px 30px #eee;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(14) {
+    animation: anim 10s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(16),
+.container-fluid .bg-animations div:nth-child(15),
+.container-fluid .bg-animations div:nth-child(18),
+[class~=container-fluid] [class~=bg-animations] div:nth-child(17) {
+    top: 100%;
+}
+
+[class~=container-fluid] {
+    justify-content: center;
+}
+
+.container-fluid .bg-animations div:nth-child(15) {
+    left: 50%;
+}
+
+.container-fluid .bg-animations div:nth-child(15) {
+    background-color: #f70776;
+}
+
+.container-fluid .bg-animations div:nth-child(15) {
+    box-shadow: 0pt 0in 30px #f70776;
+}
+
+[class~=container-fluid] {
+    align-items: center;
+}
+
+.container-fluid .bg-animations div:nth-child(15),
+[class~=container-fluid] [class~=bg-animations] div:nth-child(16) {
+    animation: anim 7s linear infinite;
+}
+
+[class~=container-fluid] {
+    background: radial-gradient(ellipse at bottom, #051c37, #000);
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(16) {
+    left: 10%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(16) {
+    background-color: #ff6f3c;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(16) {
+    box-shadow: 0in 0pt .3125in #ff6f3c;
+}
+
+[class~=container-fluid] {
+    color: whitesmoke;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(17) {
+    left: 70%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(17) {
+    background-color: #e3e3e3;
+}
+
+[class~=container-fluid] {
+    font-family: "Orbitron", "Gill Sans", "Gill Sans MT";
+}
+
+[class~=container-fluid] {
+    position: relative;
+}
+
+[class~=container-fluid] {
+    overflow: hidden;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(17) {
+    box-shadow: 0pt 0pc 30px #e3e3e3;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(17) {
+    animation: anim 15s linear infinite;
+}
+
+.container-fluid .bg-animations div:nth-child(18) {
+    left: 20%;
+}
+
+.container-fluid .bg-animations div:nth-child(18) {
+    background-color: #42b883;
+}
+
+.container-fluid .bg-animations div:nth-child(18) {
+    box-shadow: 0in 0pt 22.5pt #42b883;
+}
+
+.container-fluid .bg-animations div:nth-child(18) {
+    animation: anim 16s linear infinite;
+}
+
+.container-fluid .bg-animations div:nth-child(19) {
+    top: 80%;
+}
+
+.container-fluid .bg-animations div:nth-child(19) {
+    left: 30%;
+}
+
+.container-fluid .bg-animations div:nth-child(19) {
+    background-color: #45171d;
+}
+
+.container-fluid .bg-animations div:nth-child(19) {
+    box-shadow: 0px 0pc 22.5pt #45171d;
+}
+
+.container-fluid .bg-animations div:nth-child(19) {
+    animation: anim 14s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(20) {
+    top: 70%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(20) {
+    left: 80%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(20) {
+    background-color: #cbf078;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(20) {
+    box-shadow: 0pt 0in 22.5pt #cbf078;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(20) {
+    animation: anim 13s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(21) {
+    top: 65%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(21),
+.container-fluid .bg-animations div:nth-child(22) {
+    left: 15%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(21) {
+    background-color: #ff6f3c;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(21) {
+    box-shadow: 0pc 0pc 1.875pc #ff6f3c;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(21) {
+    animation: anim 10s linear infinite;
+}
+
+.container-fluid .bg-animations div:nth-child(22) {
+    top: 55%;
+}
+
+.container-fluid .bg-animations div:nth-child(22) {
+    background-color: #f70776;
+}
+
+.container-fluid .bg-animations div:nth-child(22) {
+    box-shadow: 0in 0in 22.5pt #f70776;
+}
+
+.container-fluid .bg-animations div:nth-child(22) {
+    animation: anim 12s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(23) {
+    top: 75%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(23) {
+    left: 75%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(23) {
+    background-color: #45171d;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(23) {
+    box-shadow: 0pt 0pc 22.5pt #45171d;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(23) {
+    animation: anim 14s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div {
+    position: absolute;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(24),
+[class~=container-fluid] [class~=bg-animations] div:nth-child(25) {
+    top: 90%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(24) {
+    left: 95%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(24) {
+    background-color: #f4f56e;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(24) {
+    box-shadow: 0pc 0pc 30px #f4f56e;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(24) {
+    animation: anim 9s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(25) {
+    left: 55%;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(25) {
+    background-color: #5c715e;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(25) {
+    box-shadow: 0in 0in 1.875pc #5c715e;
+}
+
+[class~=container-fluid] [class~=bg-animations] div {
+    width: .208333333in;
+}
+
+[class~=container-fluid] [class~=bg-animations] div:nth-child(25) {
+    animation: anim 16s linear infinite;
+}
+
+[class~=container-fluid] [class~=bg-animations] div {
+    height: 20px;
+}
+
+[class~=container-fluid] [class~=bg-animations] div {
+    border-radius: 50%;
+}
+
+@keyframes anim {
+    0% {
+        transform: scale(0) translateY(0);
+        opacity: 0;
+    }
+
+    100% {
+        transform: scale(1) translateY(-800px);
+        opacity: 1;
+    }
+}
+
+.container-fluid .main-box {
+    width: 450pt;
+}
+
+.container-fluid .main-box,
+[class~=container-fluid] [class~=main-box]::after {
+    height: 3.125in;
+}
+
+[class~=container-fluid] [class~=main-box]::after,
+[class~=container-fluid] [class~=main-box]::before,
+[class~=container-fluid] [class~=main-box] [class~=bg-square] {
+    content: "";
+}
+
+.container-fluid .main-box {
+    display: flex;
+}
+
+.container-fluid .main-box .bg-blur,
+[class~=container-fluid] [class~=main-box] [class~=bg-square],
+[class~=container-fluid] [class~=main-box]::after,
+[class~=container-fluid] [class~=main-box]::before {
+    position: absolute;
+}
+
+.container-fluid .main-box .bg-blur,
+[class~=container-fluid] [class~=main-box]::before {
+    top: 0;
+}
+
+.container-fluid .main-box {
+    justify-content: center;
+}
+
+.container-fluid .main-box .bg-blur,
+[class~=container-fluid] [class~=main-box]::before {
+    bottom: 0;
+}
+
+[class~=container-fluid] [class~=main-box]::before,
+.container-fluid .main-box .bg-blur {
+    right: 0;
+}
+
+[class~=container-fluid] [class~=main-box]::before,
+.container-fluid .main-box .bg-blur {
+    left: 0;
+}
+
+[class~=container-fluid] [class~=main-box]::before {
+    background-color: blue;
+}
+
+[class~=container-fluid] [class~=main-box]::before {
+    box-shadow: 0pt 0in 3.75pc blue;
+}
+
+.container-fluid .main-box {
+    align-items: center;
+}
+
+.container-fluid .main-box {
+    padding-left: 7.5pt;
+}
+
+.container-fluid .main-box .bg-blur,
+[class~=container-fluid] [class~=main-box]::before {
+    border-radius: 1.875pc;
+}
+
+.container-fluid .main-box {
+    padding-bottom: 7.5pt;
+}
+
+[class~=container-fluid] [class~=main-box]::before,
+[class~=container-fluid] [class~=main-box]::after {
+    z-index: -1;
+}
+
+.container-fluid .main-box .bg-blur {
+    backdrop-filter: blur(20px);
+}
+
+.container-fluid .main-box .bg-blur {
+    background: rgba(0, 0, 0, .2);
+}
+
+[class~=container-fluid] [class~=main-box]::after {
+    width: 18.75pc;
+}
+
+.container-fluid .main-box {
+    padding-right: 7.5pt;
+}
+
+.container-fluid .main-box .bg-blur,
+.container-fluid .main-box {
+    z-index: 1;
+}
+
+.container-fluid .main-box {
+    padding-top: 7.5pt;
+}
+
+.container-fluid .main-box {
+    position: relative;
+}
+
+[class~=container-fluid] [class~=main-box]::after {
+    top: -60pt;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=bg-square] {
+    width: 200px;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=bg-square] {
+    height: 2.083333333in;
+}
+
+[class~=container-fluid] [class~=main-box]::after {
+    left: -5pc;
+}
+
+[class~=container-fluid] [class~=main-box]::after {
+    background-color: #ff2626;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=bg-square] {
+    bottom: -3.125pc;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=bg-square] {
+    right: -37.5pt;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=bg-square] {
+    background-color: violet;
+}
+
+[class~=container-fluid] [class~=main-box]::after {
+    box-shadow: 0px 0pt 45pt red;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=bg-square] {
+    box-shadow: 0px 0pc 60px violet;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=bg-square] {
+    border-radius: 7.5pt;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=bg-square] {
+    z-index: -1;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=bg-square] {
+    animation: rotate 7s linear infinite;
+}
+
+[class~=container-fluid] [class~=main-box]::after {
+    border-radius: 50%;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(90deg);
+    }
+}
+
+.container-fluid .main-box .box {
+    min-height: 150pt;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    padding-left: 0;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    padding-bottom: 0;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    padding-right: 0;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    padding-top: 0;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    margin-left: 0;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    margin-bottom: 0;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    margin-right: 0;
+}
+
+.container-fluid .main-box .box {
+    min-width: 13.125pc;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    margin-top: 0;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    display: flex;
+}
+
+.container-fluid .main-box .box {
+    z-index: 2;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    align-items: center;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    justify-content: center;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    min-height: 45pt;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    transition: all 1s;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] {
+    position: relative;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] #sec {
+    position: absolute;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] #sec {
+    left: 0;
+}
+
+[class~=container-fluid] [class~=main-box] [class~=box] [class~=inner-box] #sec {
+    bottom: 0;
+}
+
+.container-fluid .main-box .box .inner-box span {
+    display: inline-block;
+}
+
+/* By > www.userali.ir */

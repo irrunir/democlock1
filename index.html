@@ -1,0 +1,106 @@
+<!-- By > www.userali.ir */ -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <script>
+        document.onkeydown = function (e) {
+            if (e.keyCode == 123) {
+                return false;
+            }
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+                return false;
+            }
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+                return false;
+            }
+            if (e.ctrlKey && e.keyCode == 85) {
+                return false;
+            }
+        }
+        document.addEventListener('contextmenu', function (e) {
+            e.preventDefault();
+        });
+    </script>
+
+    <meta charset="utf-8" />
+    <meta charset="Character_Set" />
+    <link rel="icon" href="Clock.png" />
+    <meta name="theme-color" content="#010810" />
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="bg-animations">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+        <div class="main-box">
+            <div class="bg-square"></div>
+            <div class="bg-blur"></div>
+            <div class="row box px-2 px-sm-1">
+                <div class="col-3 inner-box display-1">
+                    <span id="hrs"></span>
+                </div>
+                <div class="col-1 inner-box display-1">
+                    <span>:</span>
+                </div>
+                <div class="col-3 inner-box display-1">
+                    <span id="min"></span>
+                </div>
+                <div class="col-2 inner-box display-6">
+                    <span id="sec"></span>
+                </div>
+                <div class="col-3 inner-box display-1">
+                    <span id="ampm"></span>
+                </div>
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-2 inner-box"></div>
+                        <div class="col-3 inner-box display-5"><span id="day"></span>,</div>
+                        <div class="col-2 inner-box display-5"><span id="date"></span></div>
+                        <div class="col-3 inner-box display-5"><span id="month"></span></div>
+                        <div class="col-2 inner-box "></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+
+</html>
+
+<!-- By > www.userali.ir */ -->
